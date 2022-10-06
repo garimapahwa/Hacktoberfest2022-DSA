@@ -28,7 +28,7 @@ Output: false
 
 
 
-//Stack data structure is used to keep the track of brackets if it is in sequence or not
+//NOTE: Stack data structure is used to keep the track of brackets if it is in sequence or not
 import java.util.Stack;
 
 public class ValidParentheses {
